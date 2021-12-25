@@ -2,7 +2,7 @@
 This program show number of the dices:
 
 #### input:
-![0](https://user-images.githubusercontent.com/76804160/147374509-d0b784d5-71ab-4fd8-8614-f7369ae78f14.jpg)
+![0](https://user-images.githubusercontent.com/76804160/147374652-8aac36d0-ef18-4747-afa1-e564ab3e467b.jpg)
 #### output:
 ![1](https://user-images.githubusercontent.com/76804160/147374526-ea0202b6-92d2-4865-ad74-4bf45a8d4a75.png)
 
